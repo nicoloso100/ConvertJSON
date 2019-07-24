@@ -26,3 +26,17 @@ C:\Users\nicolas.angarita\Downloads\PruebaJsonToXml\api\JsonToXmlAPI\obj\Debug\n
 C:\Users\nicolas.angarita\Downloads\PruebaJsonToXml\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.RazorTargetAssemblyInfo.cache
 C:\Users\nicolas.angarita\Downloads\PruebaJsonToXml\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.dll
 C:\Users\nicolas.angarita\Downloads\PruebaJsonToXml\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.pdb
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\bin\Debug\netcoreapp2.1\JsonToXmlAPI.deps.json
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\bin\Debug\netcoreapp2.1\JsonToXmlAPI.runtimeconfig.json
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\bin\Debug\netcoreapp2.1\JsonToXmlAPI.runtimeconfig.dev.json
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\bin\Debug\netcoreapp2.1\JsonToXmlAPI.dll
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\bin\Debug\netcoreapp2.1\JsonToXmlAPI.pdb
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.csprojAssemblyReference.cache
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.csproj.CoreCompileInputs.cache
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.RazorAssemblyInfo.cache
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.RazorAssemblyInfo.cs
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.AssemblyInfoInputs.cache
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.AssemblyInfo.cs
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.RazorTargetAssemblyInfo.cache
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.dll
+C:\Users\nicoloso100\Documents\work\Proyectos\ConvertJSON\api\JsonToXmlAPI\obj\Debug\netcoreapp2.1\JsonToXmlAPI.pdb

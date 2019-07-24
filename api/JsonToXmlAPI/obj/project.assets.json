@@ -11795,23 +11795,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nicolas.angarita\\.nuget\\packages\\": {},
+    "C:\\Users\\nicoloso100\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicolas.angarita\\Downloads\\PruebaJsonToXml\\api\\JsonToXmlAPI\\JsonToXmlAPI.csproj",
+      "projectUniqueName": "C:\\Users\\nicoloso100\\Documents\\work\\Proyectos\\ConvertJSON\\api\\JsonToXmlAPI\\JsonToXmlAPI.csproj",
       "projectName": "JsonToXmlAPI",
-      "projectPath": "C:\\Users\\nicolas.angarita\\Downloads\\PruebaJsonToXml\\api\\JsonToXmlAPI\\JsonToXmlAPI.csproj",
-      "packagesPath": "C:\\Users\\nicolas.angarita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicolas.angarita\\Downloads\\PruebaJsonToXml\\api\\JsonToXmlAPI\\obj\\",
+      "projectPath": "C:\\Users\\nicoloso100\\Documents\\work\\Proyectos\\ConvertJSON\\api\\JsonToXmlAPI\\JsonToXmlAPI.csproj",
+      "packagesPath": "C:\\Users\\nicoloso100\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nicoloso100\\Documents\\work\\Proyectos\\ConvertJSON\\api\\JsonToXmlAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\nicolas.angarita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nicoloso100\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

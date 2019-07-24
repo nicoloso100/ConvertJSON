@@ -17,21 +17,6 @@ namespace JsonToXmlAPI.Controllers
     [ApiController]
     public class ConvertController : ControllerBase
     {
-        // POST api/values
-        [HttpPost("GetConversion")]
-        public IActionResult GetConversion([FromBody] string value)
-        {
-            try
-            {
-                var xml = ConvertirJson(value).ToString();
-                return Ok(xml);
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, ex.ToString());
-            }
-        }
-
         [HttpPost("ValidateConversion")]
         public IActionResult ValidateConversion([FromBody] string value)
         {
@@ -40,13 +25,28 @@ namespace JsonToXmlAPI.Controllers
                 var xml = ConvertirJson(value).ToString();
                 return Ok();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 return StatusCode(500, ex.ToString());
             }
         }
 
-        public XNode ConvertirJson(string json)
+        [HttpPost("GetConversion")]
+        public IActionResult GetConversion([FromBody] string value)
+        {
+            try
+            {
+                string xml = ConvertirJson(value).ToString();
+                byte[] file = Encoding.ASCII.GetBytes(xml);
+                return File(file, "application/xml");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, ex.ToString());
+            }
+        }
+        
+        private XNode ConvertirJson(string json)
         {
             try
             {
