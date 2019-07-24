@@ -1,0 +1,23 @@
+.right {
+  flex: 1;
+}
+
+.ButtonV {
+  padding: 15px;
+  background-color: #393b4b;
+  color: white;
+  text-align: center;
+  margin: 30px;
+  border-radius: 7px;
+  cursor: pointer;
+  transition-duration: 0.2s;
+}
+
+.ButtonV:hover {
+  background-color: #636575;
+}
+
+.arrow {
+  height: 50px;
+  margin-left: 30px;
+}
